@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.668" height="54.329" viewBox="0 0 63.668 54.329">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f08c1e;
+      }
+
+      .cls-2 {
+        fill: #e94e30;
+      }
+
+      .cls-3 {
+        fill: #00ac51;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-size: 11px;
+        font-family: Roboto-Regular, Roboto;
+      }
+    </style>
+  </defs>
+  <g id="Group_5244" data-name="Group 5244" transform="translate(-1616.029 -3162.911)">
+    <g id="Group_3984" data-name="Group 3984" transform="translate(1616.029 3162.911)">
+      <rect id="Rectangle_5290" data-name="Rectangle 5290" class="cls-1" width="8.682" height="25.125" transform="translate(27.493 29.203)"/>
+      <rect id="Rectangle_5291" data-name="Rectangle 5291" class="cls-2" width="8.682" height="6.906" transform="translate(27.493 29.855)"/>
+      <rect id="Rectangle_5292" data-name="Rectangle 5292" class="cls-3" width="63.668" height="30.65" rx="1.06" transform="translate(0 0)"/>
+      <text id="MG_Road" data-name="MG Road" class="cls-4" transform="translate(30.847 19.419)"><tspan x="-22.867" y="0">MG Road</tspan></text>
+    </g>
+  </g>
+</svg>

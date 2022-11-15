@@ -1,0 +1,29 @@
+<svg id="Group_5067" data-name="Group 5067" xmlns="http://www.w3.org/2000/svg" width="57.265" height="57.265" viewBox="0 0 57.265 57.265">
+  <defs>
+    <style>
+      #Group_5067 .cls-1 {
+        fill: #ffa824;
+      }
+
+      #Group_5067 .cls-2 {
+        fill: #00a824;
+      }
+
+      #Group_5067 .cls-3 {
+        fill: #00ca31;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_881" data-name="Ellipse 881" class="cls-1" cx="4.541" cy="4.541" rx="4.541" ry="4.541" transform="translate(24.028 23.903)"/>
+  <g id="Group_4940" data-name="Group 4940" transform="translate(0 0)">
+    <ellipse id="Ellipse_882" data-name="Ellipse 882" class="cls-2" cx="10.217" cy="10.217" rx="10.217" ry="10.217" transform="translate(18.416)"/>
+    <ellipse id="Ellipse_883" data-name="Ellipse 883" class="cls-2" cx="10.217" cy="10.217" rx="10.217" ry="10.217" transform="translate(18.416 36.831)"/>
+    <ellipse id="Ellipse_884" data-name="Ellipse 884" class="cls-2" cx="10.217" cy="10.217" rx="10.217" ry="10.217" transform="translate(36.831 18.416)"/>
+    <ellipse id="Ellipse_885" data-name="Ellipse 885" class="cls-2" cx="10.217" cy="10.217" rx="10.217" ry="10.217" transform="translate(0 18.416)"/>
+  </g>
+  <ellipse id="Ellipse_886" data-name="Ellipse 886" class="cls-3" cx="8.873" cy="8.873" rx="8.873" ry="8.873" transform="translate(31.997 7.522)"/>
+  <ellipse id="Ellipse_887" data-name="Ellipse 887" class="cls-3" cx="8.873" cy="8.873" rx="8.873" ry="8.873" transform="translate(7.522 31.998)"/>
+  <ellipse id="Ellipse_888" data-name="Ellipse 888" class="cls-3" cx="8.873" cy="8.873" rx="8.873" ry="8.873" transform="translate(31.997 31.998)"/>
+  <ellipse id="Ellipse_889" data-name="Ellipse 889" class="cls-3" cx="8.873" cy="8.873" rx="8.873" ry="8.873" transform="translate(7.522 7.522)"/>
+  <ellipse id="Ellipse_890" data-name="Ellipse 890" class="cls-3" cx="8.873" cy="8.873" rx="8.873" ry="8.873" transform="translate(7.522 7.522)"/>
+</svg>

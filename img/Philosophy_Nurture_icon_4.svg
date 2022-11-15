@@ -1,0 +1,37 @@
+<svg id="nature_4" xmlns="http://www.w3.org/2000/svg" width="74.76" height="65.473" viewBox="0 0 74.76 65.473">
+  <defs>
+    <style>
+      #nature_4 .cls-1 {
+        fill: #00973d;
+      }
+
+      #nature_4 .cls-2 {
+        fill: #00ca31;
+      }
+
+      #nature_4 .cls-3 {
+        fill: #01ba4c;
+      }
+
+      #nature_4 .cls-4 {
+        fill: #fff;
+        opacity: 0.43;
+      }
+
+      #nature_4 .cls-5 {
+        fill: none;
+        stroke: #01ba4c;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_5068" data-name="Group 5068" transform="translate(1.25)">
+    <circle id="Ellipse_897" data-name="Ellipse 897" class="cls-1" cx="7" cy="7" r="7" transform="translate(48.26 28.521)"/>
+    <circle id="Ellipse_898" data-name="Ellipse 898" class="cls-2" cx="3" cy="3" r="3" transform="translate(52.26 1.521)"/>
+    <circle id="Ellipse_899" data-name="Ellipse 899" class="cls-3" cx="5.5" cy="5.5" r="5.5" transform="translate(49.26 13.521)"/>
+    <path id="Path_4053" data-name="Path 4053" class="cls-2" d="M268.468,1286.295h0a17.928,17.928,0,0,1-2.444-22.307l15.12-23.738,15.118,23.738a17.926,17.926,0,0,1-2.444,22.307h0A17.925,17.925,0,0,1,268.468,1286.295Z" transform="translate(-247.999 -1240.25)"/>
+    <ellipse id="Ellipse_892" data-name="Ellipse 892" class="cls-4" cx="4.861" cy="4.861" rx="4.861" ry="4.861" transform="translate(21.517 32.036)"/>
+    <path id="Path_4054" data-name="Path 4054" class="cls-5" d="M327.382,1255.194a36.13,36.13,0,0,1-72.26,0" transform="translate(-255.122 -1227.102)"/>
+  </g>
+</svg>

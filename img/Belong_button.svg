@@ -1,0 +1,22 @@
+<svg id="Belong_button" xmlns="http://www.w3.org/2000/svg" width="109" height="27.385" viewBox="0 0 109 27.385">
+  <defs>
+    <style>
+      #Belong_button .cls-1, #Belong_button .cls-2 {
+        fill: #b1c3d6;
+      }
+
+      #Belong_button .cls-2 {
+        font-size: 16px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Group_4873" data-name="Group 4873" transform="translate(0)">
+    <rect id="Rectangle_31" data-name="Rectangle 31" class="cls-1" width="9.298" height="9.298" transform="translate(6.575 14.236) rotate(45)"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" class="cls-1" width="9.298" height="9.298" transform="translate(20.809 14.236) rotate(45)"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" class="cls-1" width="9.298" height="9.298" transform="translate(6.575 0) rotate(45)"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-1" width="9.298" height="9.298" transform="translate(20.809 0) rotate(45)"/>
+  </g>
+  <text id="BELONG" class="cls-2" transform="translate(41 20.424)"><tspan x="0" y="0">BELONG</tspan></text>
+</svg>

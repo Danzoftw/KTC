@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.406" height="34.18" viewBox="0 0 35.406 34.18">
+  <defs>
+    <style>
+      #Group_5072 .cls-1 {
+        fill: #ef4e30;
+      }
+
+      #Group_5072 .cls-2 {
+        fill: #f6921e;
+      }
+
+      #Group_5072 .cls-3 {
+        fill: #00a551;
+      }
+
+      #Group_5072 .cls-4 {
+        fill: #0074bb;
+      }
+    </style>
+  </defs>
+  <g id="Group_5072" data-name="Group 5072" transform="translate(14664 15715.52)">
+    <g id="rect_1" class="common_rect">
+      <rect id="Rectangle_5801" data-name="Rectangle 5801" class="cls-1" width="6.485" height="16.301" transform="translate(-14664 -15697.641)"/>
+    </g>
+    <g id="rect_2" class="common_rect">
+      <rect id="Rectangle_5802" data-name="Rectangle 5802" class="cls-2" width="6.485" height="25.591" transform="translate(-14654.359 -15706.931)"/>
+    </g>
+    <g id="rect_3" class="common_rect">
+      <rect id="Rectangle_5803" data-name="Rectangle 5803" class="cls-3" width="6.485" height="34.18" transform="translate(-14644.72 -15715.52)"/>
+    </g>
+    <g id="rect_4" class="common_rect">
+      <rect id="Rectangle_5804" data-name="Rectangle 5804" class="cls-4" width="6.485" height="17.09" transform="translate(-14635.079 -15698.43)"/>
+    </g>
+  </g>
+</svg>

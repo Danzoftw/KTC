@@ -1,0 +1,42 @@
+<svg version="1.1" id="express_2" xmlns="http://www.w3.org/2000/svg" width="64.26" height="86.302" viewBox="0 0 64.26 86.302">
+  <defs>
+    <style>
+      #express_2 .cls-1 {
+        fill: #ffa54d;
+      }
+
+      #express_2 .cls-2 {
+        fill: #ff5f4d;
+      }
+
+      #express_2 .cls-3 {
+        fill: #ede3e2;
+      }
+
+      #express_2 .cls-4 {
+        fill: #ea3521;
+      }
+
+      #express_2 .cls-5 {
+        fill: #f84733;
+      }
+    </style>
+  </defs>
+  <g id="Group_5087" data-name="Group 5087" transform="translate(-274 -3289.346)">
+    <g id="Group_5020" data-name="Group 5020" transform="translate(274 3289.346)">
+      <ellipse id="Ellipse_910" data-name="Ellipse 910" class="cls-1" cx="15.032" cy="16.533" rx="15.032" ry="16.533" transform="translate(21.122 6.596) rotate(-12.673)"/>
+      <path id="Path_4155" data-name="Path 4155" class="cls-2" d="M295.28,1279.266l-6.641,14.985,12.108,1.2Z" transform="translate(-272.765 -1240.903)"/>
+      <path id="Path_4156" data-name="Path 4156" class="cls-2" d="M295.177,1288.786l-1.976,4.459,3.6.357Z" transform="translate(-268.191 -1231.358)"/>
+      <path id="Path_4157" data-name="Path 4157" class="cls-2" d="M292.835,1297.168l-1.487-.141v-12.5h1.487Z" transform="translate(-270.048 -1235.629)"/>
+      <path id="Path_4158" data-name="Path 4158" class="cls-2" d="M328.047,1300.793l-30.454-3.679c2.275-6.17,8.221-10.866,15.178-10.578C321.676,1286.9,325.774,1294.623,328.047,1300.793Z" transform="translate(-263.787 -1233.626)"/>
+      <path id="Path_4159" data-name="Path 4159" class="cls-3" d="M330.522,1273.4,283,1267.27v60.739l47.622,6.649Zm-38.35,46.381v-43.8l31.621,4.145.08,43.657Z" transform="translate(-278.418 -1252.93)"/>
+      <path id="Path_4160" data-name="Path 4160" class="cls-4" d="M287.863,1329.627l-5.573,2.713v-64.7l5.573-1.853Z" transform="translate(-279.129 -1254.421)"/>
+      <path id="Path_4161" data-name="Path 4161" class="cls-5" d="M282.609,1299.2l4.9-3.483,43.147,5.563v3.678Z" transform="translate(-278.81 -1224.405)"/>
+      <g id="Group_5019" data-name="Group 5019" transform="translate(0 9.594)">
+        <path id="Path_4162" data-name="Path 4162" class="cls-2" d="M337.536,1341.608l-56.824-7.746V1264.9l56.824,7.744Zm-50.015-13.578,43.208,5.653v-55.208l-43.208-5.653Z" transform="translate(-280.712 -1264.9)"/>
+      </g>
+      <path id="Path_4163" data-name="Path 4163" class="cls-5" d="M280.716,1265.546l2.915-1.287,55.851,7.458-1.954,1.624Z" transform="translate(-280.708 -1255.949)"/>
+      <path id="Path_4164" data-name="Path 4164" class="cls-4" d="M311.044,1336.228l-1.958,2.283v-68.919l1.958-1.609Z" transform="translate(-252.264 -1252.214)"/>
+    </g>
+  </g>
+</svg>

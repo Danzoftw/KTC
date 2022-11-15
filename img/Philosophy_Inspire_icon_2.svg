@@ -1,0 +1,42 @@
+<svg id="inspire_2" xmlns="http://www.w3.org/2000/svg" width="83.261" height="67.345" viewBox="0 0 83.261 67.345">
+  <defs>
+    <style>
+      #inspire_2 .cls-1 {
+        fill: #0074bb;
+      }
+
+      #inspire_2 .cls-2 {
+        fill: #e94e30;
+      }
+
+      #inspire_2 .cls-3 {
+        fill: #00ac51;
+      }
+
+      #inspire_2 .cls-4 {
+        fill: #0e7bd2;
+      }
+
+      #inspire_2 .cls-5 {
+        fill: #0052a2;
+      }
+
+      #inspire_2 .cls-6 {
+        fill: none;
+        stroke: #00a9ff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Group_5098" data-name="Group 5098" transform="translate(-265.86 -1620.016)">
+    <path id="Path_4174" data-name="Path 4174" class="cls-1" d="M295.123,1645.75v25.466h-7.561v-11.1H272.9v11.1H265.86V1646.7a.95.95,0,0,1,.949-.949Z" transform="translate(0 16.065)"/>
+    <rect id="Rectangle_6376" data-name="Rectangle 6376" class="cls-2" width="1.951" height="12.974" transform="translate(338.436 1672.029)"/>
+    <circle id="Ellipse_871" data-name="Ellipse 871" class="cls-3" cx="8.118" cy="8.118" r="8.118" transform="translate(331.292 1659.564)"/>
+    <path id="Path_4175" data-name="Path 4175" class="cls-4" d="M319.986,1631.139v49.982h-21.6v-11.1h-7.528v11.1H283.67v-49.982a.95.95,0,0,1,.949-.949h34.418A.95.95,0,0,1,319.986,1631.139Z" transform="translate(11.338 6.159)"/>
+    <path id="Rectangle_6382" data-name="Rectangle 6382" class="cls-5" d="M305.829,1658.089h17.378a.54.54,0,0,1,.47.591h0v4.761H305.829v-5.352Z" transform="translate(25.445 23.92)"/>
+    <path id="Path_4176" data-name="Path 4176" class="cls-5" d="M286.47,1645.75l-7.314,25.419h7.518Z" transform="translate(8.465 16.065)"/>
+    <circle id="Ellipse_915" data-name="Ellipse 915" class="cls-6" cx="9.359" cy="9.359" r="9.359" transform="translate(286.521 1627.19)"/>
+    <circle id="Ellipse_916" data-name="Ellipse 916" class="cls-3" cx="3.682" cy="3.682" r="3.682" transform="translate(292.198 1632.867)"/>
+    <circle id="Ellipse_917" data-name="Ellipse 917" class="cls-6" cx="16.034" cy="16.034" r="16.034" transform="translate(279.847 1620.516)"/>
+  </g>
+</svg>

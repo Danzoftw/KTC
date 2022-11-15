@@ -1,0 +1,33 @@
+<svg id="Group_5242" data-name="Group 5242" xmlns="http://www.w3.org/2000/svg" width="44.003" height="53.485" viewBox="0 0 44.003 53.485">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ac51;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #0e7bd2;
+      }
+    </style>
+  </defs>
+  <g id="Group_5148" data-name="Group 5148" transform="translate(0 3.099)">
+    <g id="Group_5147" data-name="Group 5147" transform="translate(3.554)">
+      <path id="Rectangle_6645" data-name="Rectangle 6645" class="cls-1" d="M8.914,0H27.982A8.914,8.914,0,0,1,36.9,8.914V28.023a9.256,9.256,0,0,1-9.256,9.256H9.256A9.256,9.256,0,0,1,0,28.023V8.914A8.914,8.914,0,0,1,8.914,0Z"/>
+      <path id="Rectangle_6646" data-name="Rectangle 6646" class="cls-2" d="M5.36,0H26.027a5.36,5.36,0,0,1,5.36,5.36V8.837a2.927,2.927,0,0,1-2.927,2.927H2.927A2.927,2.927,0,0,1,0,8.837V5.36A5.36,5.36,0,0,1,5.36,0Z" transform="translate(2.755 5.678)"/>
+      <g id="Group_5146" data-name="Group 5146" transform="translate(6.636 20.718)">
+        <ellipse id="Ellipse_931" data-name="Ellipse 931" class="cls-2" cx="3.172" cy="3.172" rx="3.172" ry="3.172" transform="translate(17.183 0.167)"/>
+        <ellipse id="Ellipse_932" data-name="Ellipse 932" class="cls-2" cx="3.172" cy="3.172" rx="3.172" ry="3.172"/>
+      </g>
+    </g>
+    <rect id="Rectangle_6647" data-name="Rectangle 6647" class="cls-3" width="44.003" height="3.625" rx="1.812" transform="translate(0 46.761)"/>
+    <rect id="Rectangle_6648" data-name="Rectangle 6648" class="cls-3" width="34.141" height="3.625" rx="1.812" transform="translate(4.931 40.379)"/>
+  </g>
+  <g id="Group_5149" data-name="Group 5149" transform="translate(12.795)">
+    <rect id="Rectangle_6649" data-name="Rectangle 6649" class="cls-1" width="3.625" height="6.234" rx="1.812"/>
+    <rect id="Rectangle_6650" data-name="Rectangle 6650" class="cls-1" width="3.625" height="6.234" rx="1.812" transform="translate(14.788)"/>
+  </g>
+</svg>

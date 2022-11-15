@@ -1,0 +1,147 @@
+<svg id="quadrants_1" xmlns="http://www.w3.org/2000/svg" width="393.202" height="393.203" viewBox="0 0 393.202 393.203">
+  <defs>
+    <style>
+      #quadrants_1 .cls-1 {
+        opacity: 0.35;
+      }
+
+      #quadrants_1 .cls-2 {
+        fill: none;
+        stroke: #cecece;
+        stroke-width: 3px;
+      }
+
+      #quadrants_1 .cls-3 {
+        fill: #7d7d7d;
+        font-size: 22px;
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+        letter-spacing: 0.03em;
+      }
+
+      #quadrants_1 .cls-4, #quadrants_1 .cls-5 {
+        fill: #01ba4c;
+      }
+
+      #quadrants_1 .cls-10, #quadrants_1 .cls-4, #quadrants_1 .cls-6, #quadrants_1 .cls-8 {
+        opacity: 0;
+      }
+
+      #quadrants_1 .cls-6, #quadrants_1 .cls-7 {
+        fill: #fc932f;
+      }
+
+      #quadrants_1 .cls-8, #quadrants_1 .cls-9 {
+        fill: #0e7bd2;
+      }
+
+      #quadrants_1 .cls-10, #quadrants_1 .cls-11 {
+        fill: #f84530;
+      }
+    </style>
+  </defs>
+  <g id="quadrants" transform="translate(-8014.463 -289.463)">
+    <g id="line" class="cls-1" transform="translate(8014.463 289.463)">
+      <g id="Group_4027" data-name="Group 4027" transform="translate(0)">
+        <path id="Path_1073" data-name="Path 1073" class="cls-2" d="M246-19778.709v393.2" transform="translate(-49.4 19778.709)"/>
+        <path id="Path_1074" data-name="Path 1074" class="cls-2" d="M0,0V393.2" transform="translate(393.202 196.603) rotate(90)"/>
+      </g>
+    </g>
+    <g id="nurture">
+      <text id="Nurture-2" data-name="Nurture" class="cls-3" transform="translate(8110 440)"><tspan x="-38.912" y="0">Nurture</tspan></text>
+      <g id="Group_5454" data-name="Group 5454">
+        <g class="Ellipse_605 common-transition">
+          <ellipse id="Ellipse_605" data-name="Ellipse 605" class="cls-4" cx="3.958" cy="3.96" rx="3.958" ry="3.96" transform="translate(8105.812 347.648)"/>
+        </g>
+        <g id="Group_5111" data-name="Group 5111" transform="translate(8062.651 306.945)">
+          <g id="Group_4036" data-name="Group 4036" transform="translate(0)">
+            <g class="Ellipse_29 common-transition">
+            <ellipse id="Ellipse_29" data-name="Ellipse 29" class="cls-5" cx="19.651" cy="19.652" rx="19.651" ry="19.652" transform="translate(54.046 54.04)"/>
+            </g>
+            <g class="Ellipse_30 common-transition">
+              <ellipse id="Ellipse_30" data-name="Ellipse 30" class="cls-5" cx="19.651" cy="19.652" rx="19.651" ry="19.652" transform="translate(0 54.04)"/>
+            </g>
+            <g class="Ellipse_31 common-transition">
+              <ellipse id="Ellipse_31" data-name="Ellipse 31" class="cls-5" cx="19.651" cy="19.652" rx="19.651" ry="19.652" transform="translate(54.046)"/>
+            </g>
+            <g class="Ellipse_32 common-transition">
+              <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-5" cx="19.652" cy="19.653" rx="19.652" ry="19.653" transform="translate(0.522 0.521)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="belong">
+      <text id="Belong-2" data-name="Belong" class="cls-3" transform="translate(8319 440)"><tspan x="-35.004" y="0">Belong</tspan></text>
+      <g id="Group_5453" data-name="Group 5453">
+        <g class="Rectangle_5696 common-transition">
+          <rect id="Rectangle_5696" data-name="Rectangle 5696" class="cls-6" width="6.401" height="6.401" transform="translate(8317.319 350.275) rotate(45)"/>
+        </g>
+        <g id="Group_5113" data-name="Group 5113" transform="translate(8270.496 307.5)">
+          <g id="Group_4885" data-name="Group 4885" transform="translate(0)">
+            <g class="Rectangle_31 common-transition">
+              <rect id="Rectangle_31" data-name="Rectangle 31" class="cls-7" width="30.707" height="30.707" transform="translate(21.713 49.958) rotate(45)"/>
+            </g>
+            <g class="Rectangle_32 common-transition">
+              <rect id="Rectangle_32" data-name="Rectangle 32" class="cls-7" width="30.707" height="30.707" transform="translate(72.951 49.958) rotate(45)"/>
+            </g>
+            <g class="Rectangle_33 common-transition">
+              <rect id="Rectangle_33" data-name="Rectangle 33" class="cls-7" width="30.707" height="30.707" transform="translate(21.671 -0.078) rotate(45)"/>
+            </g>
+            <g class="Rectangle_34 common-transition">
+              <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-7" width="30.707" height="30.707" transform="translate(72.951 0) rotate(45)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="inspire">
+      <text id="Inspire-2" data-name="Inspire" class="cls-3" transform="translate(8314 667)"><tspan x="-34.609" y="0">Inspire</tspan></text>
+      <g id="Group_5456" data-name="Group 5456">
+        <g class="Path_1072 common-transition">
+          <path id="Path_1072" data-name="Path 1072" class="cls-8" d="M2432.361,401.812h5.287l-2.641-5.288Z" transform="translate(5879.852 180.09)"/>
+        </g>
+        <g id="Group_5114" data-name="Group 5114" transform="translate(8270.82 536)">
+          <g id="Group_4039" data-name="Group 4039" transform="translate(0 0.001)">
+          <g class="Path_158 common-transition">
+            <path id="Path_158" data-name="Path 158" class="cls-9" d="M2432.361,435.832h39.3l-19.635-39.308Z" transform="translate(-2432.361 -396.524)"/>
+          </g>
+          <g class="Path_159 common-transition">
+            <path id="Path_159" data-name="Path 159" class="cls-9" d="M2451.182,435.83h39.3l-19.637-39.306Z" transform="translate(-2402.757 -396.524)"/>
+          </g>
+          <g class="Path_160 common-transition">
+            <path id="Path_160" data-name="Path 160" class="cls-9" d="M2432.362,454.653h39.3l-19.635-39.309Z" transform="translate(-2432.361 -366.946)"/>
+          </g>
+          <g class="Path_161 common-transition">
+            <path id="Path_161" data-name="Path 161" class="cls-9" d="M2451.182,454.651h39.3l-19.637-39.307Z" transform="translate(-2402.757 -366.946)"/>
+          </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="express">
+      <text id="Express-2" data-name="Express" class="cls-3" transform="translate(8110 667)"><tspan x="-40.335" y="0">Express</tspan></text>
+      <g id="Group_5455" data-name="Group 5455">
+        <g class="Path_1068 common-transition">
+          <path id="Path_1068" data-name="Path 1068" class="cls-10" d="M2413.541,399.768l1.576,3.158h3.25l1.576-3.158-3.2-3.244Z" transform="translate(5694.057 174.621)"/>
+        </g>
+        <g id="Group_4878" data-name="Group 4878" transform="translate(8063.94 530.5)">
+          <g id="Group_4035" data-name="Group 4035" transform="translate(0 0)">
+            <g class="Path_154 common-transition">
+              <path id="Path_154" data-name="Path 154" class="cls-11" d="M2413.543,417.683l10.28,20.6h21.2l10.279-20.6-20.885-21.159Z" transform="translate(-2361.866 -396.524)"/>
+            </g>
+            <g class="Path_155 common-transition">
+              <path id="Path_155" data-name="Path 155" class="cls-11" d="M2394.72,417.684l10.281,20.6h21.2l10.276-20.6L2415.6,396.524Z" transform="translate(-2394.72 -396.524)"/>
+            </g>
+            <g class="Path_156 common-transition">
+              <path id="Path_156" data-name="Path 156" class="cls-11" d="M2413.543,436.5l10.28,20.6h21.2l10.279-20.6-20.885-21.159Z" transform="translate(-2361.866 -362.424)"/>
+            </g>
+            <g class="Path_157 common-transition">
+              <path id="Path_157" data-name="Path 157" class="cls-11" d="M2394.721,436.5l10.28,20.6h21.205l10.276-20.6-20.877-21.16Z" transform="translate(-2394.72 -362.424)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

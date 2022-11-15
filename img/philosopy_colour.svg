@@ -1,0 +1,31 @@
+<svg class="max-w-100" xmlns="http://www.w3.org/2000/svg" width="160" height="65.066" viewBox="0 0 106 90.066">
+  <g id="Group_4609" data-name="Group 4609" transform="translate(3410 20406.999)">
+    <g class="box-animation common-fill-box animate-speed-one">
+      <g class="green common-transition">
+        <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="9.132" cy="9.132" rx="9.132" ry="9.132" transform="translate(-3389.169 -20386.178)" fill="#00973d"/>
+        <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="9.132" cy="9.132" rx="9.132" ry="9.132" transform="translate(-3409.662 -20386.178)" fill="#00973d"/>
+        <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="9.132" cy="9.132" rx="9.132" ry="9.132" transform="translate(-3389.169 -20406.668)" fill="#00973d"/>
+        <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="9.132" cy="9.132" rx="9.132" ry="9.132" transform="translate(-3409.662 -20406.668)" fill="#00973d"/>
+      </g>
+      <g class="red common-transition">
+        <path id="Path_154" data-name="Path 154" d="M2413.542,406.117l4.66,9.34h9.613l4.66-9.34-9.469-9.593Z" transform="translate(-5803.047 -20762.535)" fill="#ea3521"/>
+        <path id="Path_155" data-name="Path 155" d="M2394.721,406.117l4.661,9.34h9.613l4.659-9.34-9.466-9.593Z" transform="translate(-5804.721 -20762.535)" fill="#ea3521"/>
+        <path id="Path_156" data-name="Path 156" d="M2413.542,424.938l4.66,9.34h9.613l4.66-9.34-9.469-9.593Z" transform="translate(-5803.047 -20760.879)" fill="#ea3521"/>
+        <path id="Path_157" data-name="Path 157" d="M2394.721,424.938l4.661,9.34h9.613l4.659-9.34-9.466-9.593Z" transform="translate(-5804.721 -20760.879)" fill="#ea3521"/>
+      </g>
+      <g class="blue common-transition">
+        <path id="Path_158" data-name="Path 158" d="M2432.362,415.457h18.931l-9.457-18.933Z" transform="translate(-5801.375 -20762.537)" fill="#0062b0"/>
+        <path id="Path_159" data-name="Path 159" d="M2451.182,415.457h18.933l-9.459-18.933Z" transform="translate(-5799.703 -20762.537)" fill="#0062b0"/>
+        <path id="Path_160" data-name="Path 160" d="M2432.362,434.278h18.931l-9.457-18.933Z" transform="translate(-5801.375 -20760.879)" fill="#0062b0"/>
+        <path id="Path_161" data-name="Path 161" d="M2451.182,434.278h18.933l-9.459-18.933Z" transform="translate(-5799.703 -20760.879)" fill="#0062b0"/>
+      </g>
+      <g class="yellow common-transition">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="13.388" height="13.388" transform="translate(-3359.549 -20386.508) rotate(45)" fill="#f77e0b"/>
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="13.388" height="13.388" transform="translate(-3339.057 -20386.508) rotate(45)" fill="#f77e0b"/>
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="13.388" height="13.388" transform="translate(-3359.549 -20407) rotate(45)" fill="#f77e0b"/>
+        <rect id="Rectangle_34" data-name="Rectangle 34" width="13.388" height="13.388" transform="translate(-3339.057 -20407) rotate(45)" fill="#f77e0b"/>
+      </g>
+    </g>
+  </g>
+</svg>
+

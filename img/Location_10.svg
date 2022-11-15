@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90.652" height="48.834" viewBox="0 0 90.652 48.834">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0081c8;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #f6f9f9;
+        stroke-width: 2.63px;
+        stroke-dasharray: 7.7;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Group_5262" data-name="Group 5262" transform="translate(-738 -3244.966)">
+    <g id="Group_5261" data-name="Group 5261" transform="translate(738 3244.966)">
+      <rect id="Rectangle_6700" data-name="Rectangle 6700" class="cls-1" width="76.055" height="17.819" transform="translate(7.299 26.149)"/>
+      <rect id="Rectangle_6701" data-name="Rectangle 6701" class="cls-1" width="76.055" height="2.716" transform="translate(7.299 21.346)"/>
+      <rect id="Rectangle_6702" data-name="Rectangle 6702" class="cls-1" width="76.055" height="2.716" transform="translate(7.299 46.118)"/>
+      <path id="Path_4335" data-name="Path 4335" class="cls-2" d="M0,0H90.652" transform="translate(0 34.745)"/>
+      <g id="Group_5260" data-name="Group 5260" transform="translate(36.924 0)">
+        <rect id="Rectangle_6703" data-name="Rectangle 6703" class="cls-1" width="16.805" height="32.74"/>
+        <line id="Line_12180" data-name="Line 12180" class="cls-3" y2="23.492" transform="translate(8.714 3.002)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg id="nurture_button" xmlns="http://www.w3.org/2000/svg" width="117.865" height="26.914" viewBox="0 0 117.865 26.914">
+  <defs>
+    <style>
+      #nurture_button .cls-1, #nurture_button .cls-2 {
+        fill: #b1c3d6;
+      }
+
+      #nurture_button .cls-1 {
+        font-size: 16px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Group_4884" data-name="Group 4884" transform="translate(-967.5 -802.816)">
+    <text id="NURTURE" class="cls-1" transform="translate(1005.365 822.721)"><tspan x="0" y="0">NURTURE</tspan></text>
+    <g id="Group_4872" data-name="Group 4872" transform="translate(967.5 802.816)">
+      <ellipse id="Ellipse_29" data-name="Ellipse 29" class="cls-2" cx="6.343" cy="6.343" rx="6.343" ry="6.343" transform="translate(14.232 14.229)"/>
+      <ellipse id="Ellipse_30" data-name="Ellipse 30" class="cls-2" cx="6.343" cy="6.343" rx="6.343" ry="6.343" transform="translate(0 14.229)"/>
+      <ellipse id="Ellipse_31" data-name="Ellipse 31" class="cls-2" cx="6.343" cy="6.343" rx="6.343" ry="6.343" transform="translate(14.232)"/>
+      <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-2" cx="6.343" cy="6.343" rx="6.343" ry="6.343"/>
+    </g>
+  </g>
+</svg>

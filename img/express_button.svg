@@ -1,0 +1,24 @@
+<svg id="express_1" xmlns="http://www.w3.org/2000/svg" width="114.51" height="27.378" viewBox="0 0 114.51 27.378">
+  <defs>
+    <style>
+      #express_1 .cls-1 {
+        fill: #b1c3d6;
+      }
+
+      #express_1 .cls-2 {
+        font-size: 16px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Express_button" transform="translate(-590.908 -1141)">
+    <g id="Group_4867" data-name="Group 4867" transform="translate(590.908 1141)">
+      <path id="Path_154" data-name="Path 154" class="cls-1" d="M2413.542,403.186l3.237,6.487h6.677l3.236-6.487-6.576-6.662Z" transform="translate(-2399.306 -396.524)"/>
+      <path id="Path_155" data-name="Path 155" class="cls-1" d="M2394.721,403.186l3.238,6.487h6.677l3.235-6.487-6.574-6.662Z" transform="translate(-2394.721 -396.524)"/>
+      <path id="Path_156" data-name="Path 156" class="cls-1" d="M2413.542,422.007l3.237,6.487h6.677l3.236-6.487-6.576-6.663Z" transform="translate(-2399.306 -401.116)"/>
+      <path id="Path_157" data-name="Path 157" class="cls-1" d="M2394.721,422.007l3.238,6.487h6.677l3.235-6.487-6.574-6.663Z" transform="translate(-2394.721 -401.116)"/>
+    </g>
+    <text id="EXPRESS" class="cls-2" transform="translate(630.418 1162)"><tspan x="0" y="0">EXPRESS</tspan></text>
+  </g>
+</svg>

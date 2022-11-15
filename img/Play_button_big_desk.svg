@@ -1,0 +1,26 @@
+<svg id="play_pc" class="o-visible" xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
+  <defs>
+    <style>
+      #play_pc .cls-1 {
+        opacity: 0.4;
+      }
+
+      #play_pc .cls-2 {
+        fill: #fff;
+        opacity: 0.82;
+      }
+    </style>
+  </defs>
+  <g class="Play_button_big o-visible">
+    <g id="Play_button_big" transform="translate(-9398 22985)">
+      <g id="Group_4956" data-name="Group 4956" transform="translate(8039 -24373)">
+        <g class="Ellipse_866 common-transition">
+          <circle id="Ellipse_866"  data-name="Ellipse 866" class="cls-1" cx="56" cy="56" r="56" transform="translate(1359 1388)"/>
+        </g>
+        <g class="Polygon_10 common-transition">
+          <path id="Polygon_10" data-name="Polygon 10" class="cls-2" d="M15,0,30,26H0Z" transform="translate(1433 1429) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="inspire_button" xmlns="http://www.w3.org/2000/svg" width="106.966" height="27.38" viewBox="0 0 106.966 27.38">
+  <defs>
+    <style>
+      #inspire_button .cls-1, #inspire_button .cls-2 {
+        fill: #b1c3d6;
+      }
+
+      #inspire_button .cls-2 {
+        font-size: 16px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Group_5423" data-name="Group 5423" transform="translate(-871.034 -1141.001)">
+    <path id="Path_158" data-name="Path 158" class="cls-1" d="M2432.362,409.673h13.148l-6.567-13.149Z" transform="translate(-1561.328 744.477)"/>
+    <path id="Path_159" data-name="Path 159" class="cls-1" d="M2451.182,409.673h13.15l-6.569-13.149Z" transform="translate(-1565.916 744.477)"/>
+    <path id="Path_160" data-name="Path 160" class="cls-1" d="M2432.362,428.494h13.148l-6.567-13.149Z" transform="translate(-1561.328 739.887)"/>
+    <path id="Path_161" data-name="Path 161" class="cls-1" d="M2451.182,428.494h13.15l-6.569-13.149Z" transform="translate(-1565.916 739.887)"/>
+  </g>
+  <text id="INSPIRE" class="cls-2" transform="translate(38.966 20.423)"><tspan x="0" y="0">INSPIRE</tspan></text>
+</svg>

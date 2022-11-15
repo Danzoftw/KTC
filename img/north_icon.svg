@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="71" viewBox="0 0 71 71">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #0e7bd2;
+      }
+
+      .cls-4 {
+        stroke: #0e7bd2;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #f1f4f8;
+      }
+
+      .cls-6 {
+        fill: #fc932f;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7236" data-name="Rectangle 7236" class="cls-1" width="61.122" height="61.122"/>
+    </clipPath>
+  </defs>
+  <g id="north_icon" transform="translate(-12321 -801)">
+    <g id="Group_5704" data-name="Group 5704" class="cls-2" transform="translate(12326.112 806.112)">
+      <path id="Path_4790" data-name="Path 4790" class="cls-1" d="M61.122,30.56A30.561,30.561,0,1,1,30.561,0,30.561,30.561,0,0,1,61.122,30.56" transform="translate(0 0)"/>
+    </g>
+    <circle id="Ellipse_1169" data-name="Ellipse 1169" class="cls-3" cx="29.5" cy="29.5" r="29.5" transform="translate(12327 807)"/>
+    <g id="Ellipse_1170" data-name="Ellipse 1170" class="cls-4" transform="translate(12321 801)">
+      <circle class="cls-8" cx="35.5" cy="35.5" r="35.5"/>
+      <circle class="cls-1" cx="35.5" cy="35.5" r="34.5"/>
+    </g>
+    <g id="Group_5703" data-name="Group 5703" transform="translate(12343.557 832.171)">
+      <g id="Group_5702" data-name="Group 5702" transform="translate(0 0)">
+        <path id="Path_4788" data-name="Path 4788" class="cls-5" d="M27.06,11.716V31.671L13.973,36.29Z" transform="translate(-13.974 -11.716)"/>
+        <path id="Path_4789" data-name="Path 4789" class="cls-6" d="M42.4,36.289,29.313,31.671V11.716Z" transform="translate(-16.227 -11.716)"/>
+      </g>
+    </g>
+    <text id="N" class="cls-7" transform="translate(12356 826)"><tspan x="-5.325" y="0">N</tspan></text>
+  </g>
+</svg>
